@@ -1,4 +1,9 @@
-# Digdata - "Step Up" Lloyds Banking Group career challenge
+# Lloyds Banking Group data challenge
+
+## Highlights:
+• Created a comprehensive solution to tackle problems of missing data and imbalanced data.
+
+• As a result, I boosted my deep learning models’ prediction accuracy and beat the benchmark model.
 
 ## Overview:
 
